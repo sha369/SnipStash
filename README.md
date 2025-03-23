@@ -91,7 +91,7 @@ SnipStash/
 ---
 
 ## 📥 Download for macOS  
-[![Download SnipStash](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple)]([dist/SnipStash-1.0.0-arm64.dmg](https://github.com/sha369/SnipStash/releases/download/1.0.0/SnipStash-1.0.0-arm64.dmg.zip))
+[![Download SnipStash](https://img.shields.io/badge/Download-macOS-blue?style=for-the-badge&logo=apple)](https://github.com/sha369/SnipStash/releases/tag/1.0.0)
 
 ---
 
