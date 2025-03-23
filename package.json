@@ -1,0 +1,26 @@
+{
+  "name": "snipstash",
+  "productName": "SnipStash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SHA",
+  "license": "MIT",
+  "description": "SnipStash is a fast, efficient, and privacy-focused clipboard manager for macOS. It runs in the menu bar, storing your last 20 copied items for quick access. Click an item to instantly paste it where your cursor is.",
+  "devDependencies": {
+    "electron": "^35.0.3",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.app.SnipStash",
+    "mac": {
+      "category": "public.app-category.utilities",
+      "target": "dmg",
+      "icon": "assets/icon.icns"
+    }
+  }
+}
