@@ -18,7 +18,7 @@
 ---
 
 ## 📷 Screenshot  
-![SnipStash Screenshot](screenshot.png)  
+<img src="screenshot/showcase.png" alt="SnipStash Screenshot" width="200">
 
 ---
 
